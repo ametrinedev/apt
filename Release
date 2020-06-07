@@ -1,0 +1,7 @@
+Origin: Ametrine
+Label: Ametrine
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Ametrine APT repository.
