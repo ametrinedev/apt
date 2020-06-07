@@ -1,0 +1,27 @@
+@import "{{ cayman }}";
+
+footer {
+	display: none;
+}
+
+body {
+	color: #b9c0c3;
+	background-color: #111111;
+}
+
+a {
+	color: #e46c6c;
+}
+
+.main-content {
+	background-color: #111111;
+}
+
+.main-content h1 {
+	color: #d06c70;
+}
+
+.main-content code {
+	color: #dadbdc;
+	background-color: #1a1a1a;
+}
