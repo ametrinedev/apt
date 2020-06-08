@@ -4,40 +4,85 @@
 @import "{{ site.theme }}";
 
 footer {
-    display: none !important;
+    display: none;
 }
 
 body {
-    color: #b9c0c3 !important;
-    background-color: #111111 !important;
+    color: #b9c0c3;
+    background-color: #111111;
 }
 
 a {
-    color: #97b3d0 !important;
+    color: #97b3d0;
 }
 
 .btn {
-    color: #e0e0e0 !important;
+    color: #e0e0e0;
+    display: none;
 }
 
 .main-content {
-    background-color: #111111 !important;
+    background-color: #111111;
 }
 
 .main-content h1 {
-    color: #d06c70 !important;
+    color: #d06c70;
+}
+
+.main-content h2, .main-content h3 {
+    color: #dc9e9e;
 }
 
 .main-content h6 {
-    color: #de5757 !important;
+    color: #de5757;
 }
 
 .main-content code {
-    color: #dadbdc !important;
-    background-color: #1a1a1a !important;
+    color: #dadbdc;
+    background-color: #1a1a1a;
 }
 
 .page-header {
     background-color: #991515;
     background-image: linear-gradient(120deg, #155799, #991515);
+}
+.myButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #97c4fe;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #97c4fe;
+	box-shadow:inset 0px 1px 0px 0px #97c4fe;
+	background-color:#297ed9;
+	-webkit-border-top-left-radius:25px;
+	-moz-border-radius-topleft:25px;
+	border-top-left-radius:25px;
+	-webkit-border-top-right-radius:25px;
+	-moz-border-radius-topright:25px;
+	border-top-right-radius:25px;
+	-webkit-border-bottom-right-radius:25px;
+	-moz-border-radius-bottomright:25px;
+	border-bottom-right-radius:25px;
+	-webkit-border-bottom-left-radius:25px;
+	-moz-border-radius-bottomleft:25px;
+	border-bottom-left-radius:25px;
+	text-indent:0px;
+	border:1px solid #337fed;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:normal;
+	font-style:normal;
+	padding-top:11px;
+	padding-bottom:11px;
+	padding-left:18px;
+	padding-right:18px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #1570cd;
+}
+.myButton:hover {
+	background-color:#1e62d0;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
 }
