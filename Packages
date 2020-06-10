@@ -1,0 +1,10 @@
+Package: dev.ametrine.notiping
+Name: notiping
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Get a notification when a server goes down!
+Maintainer: quiprr
+Author: quiprr
+Section: Tweaks
+Depends: inetutils
+Filename: debs/dev.ametrine.notiping_1.0.0-5+debug_iphoneos-arm.deb
