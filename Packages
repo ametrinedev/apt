@@ -8,3 +8,4 @@ Author: quiprr
 Section: Tweaks
 Depends: inetutils
 Filename: debs/dev.ametrine.notiping_1.0.0-5+debug_iphoneos-arm.deb
+Icon: https://repo.ametrine.dev/icons/notiping.png
