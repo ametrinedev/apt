@@ -18,5 +18,5 @@ Description: Dependency installer to ensure a working jailbreak.
 Maintainer: quiprr
 Author: quiprr
 Section: Pre-Tweaks
-Depends: preferenceloader, rocketbootstrap, ws.hbang.common, applist
-Filename: debs/dev.ametrine.common_1.0.0-1+debug_iphoneos-arm.deb
+Depends: preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common, applist
+Filename: debs/dev.ametrine.common_1.0.0_iphoneos-arm.deb
