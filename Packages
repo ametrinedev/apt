@@ -9,3 +9,14 @@ Section: Tweaks
 Depends: inetutils
 Filename: debs/dev.ametrine.notiping_1.0.0-5+debug_iphoneos-arm.deb
 Icon: https://repo.ametrine.dev/icons/notiping.png
+
+Package: dev.ametrine.common
+Name: common
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Dependency installer to ensure a working jailbreak.
+Maintainer: quiprr
+Author: quiprr
+Section: Pre-Tweaks
+Depends: preferenceloader, rocketbootstrap, ws.hbang.common, applist
+Filename: debs/dev.ametrine.common_1.0.0-1+debug_iphoneos-arm.deb
