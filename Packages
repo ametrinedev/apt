@@ -1,10 +1,31 @@
+Package: dev.ametrine.common
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: quiprr
+Installed-Size: 68
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common, applist
+Filename: debs/dev.ametrine.common_1.0.0_iphoneos-arm.deb
+Size: 1542
+MD5sum: 678702ce00cb284f496497f44ff0a707
+SHA1: adb4aaa0decdf5334b8e34e8a13e67915d9b571a
+SHA256: 17c7086eb23e6c76f2ad39dcbdd95eb22c52d8d56bffeead0dabf898a46aad2e
+Section: Pre-Tweaks
+Description: Dependency installer for a working jailbreak.
+Author: quiprr
+Name: common
+
 Package: dev.ametrine.notiping
-Name: notiping
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Get a notification when a server goes offline!
 Maintainer: quiprr
-Author: quiprr
-Section: Tweaks
-Depends: inetutils
+Depends: mobilesubstrate, inetutils
 Filename: debs/dev.ametrine.notiping_1.0.0_iphoneos-arm.deb
+Size: 628
+MD5sum: 755d3a20a372669efd62fb4acc8b6fd2
+SHA1: 1cb5ab2532727ca6005d8ccc2b31c190c4e59d0f
+SHA256: 27a912448245b493a69bf3fffc65679939017441989d9a5fddb9d3ea189f4d79
+Section: TweaksInstalled-Size: 616
+Description: Get a notification when a server goes down!
+Author: quiprr
+Name: notiping
+
