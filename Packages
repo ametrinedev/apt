@@ -1,4 +1,20 @@
 Package: dev.ametrine.notiping
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ItHertzSoGood
+Installed-Size: 728
+Depends: mobilesubstrate, preferenceloader, inetutils
+Filename: debs/dev.ametrine.notiping_1.0.0_iphoneos-arm.deb
+Size: 32952
+MD5sum: 563938629ae93232be1ca81c0f7acccf
+SHA1: f690b93e145472070b15e92082b203c2e9521547
+SHA256: 9a0fa719d043a62a4ed8a991d5b171e8d5b68f64f081af10871ffd9a3dbfd96d
+Section: Tweaks
+Description: Get notified when a server goes down!
+Author: ItHertzSoGood
+Name: NotiPing
+
+Package: dev.ametrine.notiping
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: ItHertzSoGood
@@ -9,6 +25,22 @@ Size: 32478
 MD5sum: 97fcdef98e78a5f18d6a6242c9f93ace
 SHA1: 6db795a382341d471988821918b8d5ef367e88f5
 SHA256: d85899480ac04e0e3ac3c17eb08a3d98a7f0403519b02799aba9ba1d7925e4bd
+Section: Tweaks
+Description: Get notified when a server goes down!
+Author: ItHertzSoGood
+Name: NotiPing
+
+Package: dev.ametrine.notiping
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: ItHertzSoGood
+Installed-Size: 328
+Depends: mobilesubstrate, preferenceloader, inetutils
+Filename: debs/dev.ametrine.notiping_1.0.2_iphoneos-arm.deb
+Size: 22428
+MD5sum: fb4e15db0075f0a74367f9bddbed1ee0
+SHA1: c795100394b836f3980f6e42a7195e338b9acefc
+SHA256: ce3d199d64a16e898e763e037e4fb89449cb96243735dd5291f12e6d7e083630
 Section: Tweaks
 Description: Get notified when a server goes down!
 Author: ItHertzSoGood
