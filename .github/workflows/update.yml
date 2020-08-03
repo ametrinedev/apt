@@ -1,0 +1,26 @@
+name: update
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Run a multi-line script
+      run: |
+        rm Packages
+        echo "Packages removed."
+        rm Packages.gz
+        echo "Packages.gz removed."
+        rm Packages.bz2
+        echo "Packages.bz2 removed."
+        dpkg-scanpackages --multiversion debs > Packages
+        echo "Packages created."
+        gzip -c9 Packages > Packages.gz
+        echo "Packages.gz created."
+        bzip2 -c9 Packages > Packages.bz2
+        echo "Packages.bz2 created."
