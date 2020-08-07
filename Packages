@@ -62,6 +62,22 @@ Description: Get notified when a server goes down!
 Author: ItHertzSoGood
 Name: NotiPing
 
+Package: dev.ametrine.notiping
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: ItHertzSoGood
+Installed-Size: 1016
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/dev.ametrine.notiping_1.0.4_iphoneos-arm.deb
+Size: 55998
+MD5sum: 242aeda2885fbd373e52cd47b8462ca6
+SHA1: 1be6fea0aa6142607a9a735a4881a855243e192b
+SHA256: 1cab8ed3c83aaa1d9e2fc276e860a96ad38e084eb0ae05fa7dc7e9fc44cb1a5b
+Section: Tweaks
+Description: Get notified when a server goes down!
+Author: ItHertzSoGood
+Name: NotiPing
+
 Package: inetutils
 Version: 1.9.4-2
 Architecture: iphoneos-arm
