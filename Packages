@@ -78,6 +78,22 @@ Description: Get notified when a server goes down!
 Author: ItHertzSoGood
 Name: NotiPing
 
+Package: dev.quiprr.sorrylowbattery
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: quiprr
+Installed-Size: 848
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/dev.quiprr.sorrylowbattery_1.0.0_iphoneos-arm.deb
+Size: 39512
+MD5sum: 5c396a9ba837678e6189f2f15fb4d558
+SHA1: 059bfbd5725126e7ddf2dd7a9f9b9c63962eeb9f
+SHA256: aa12f6f73e2906ba703b69b2db86d4471784ac3f00bdff10f64ecbcdbdddb04d
+Section: Tweaks
+Description: Get another Low Battery notification!
+Author: quiprr
+Name: SorryLowBattery
+
 Package: inetutils
 Version: 1.9.4-2
 Architecture: iphoneos-arm
