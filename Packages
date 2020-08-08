@@ -86,9 +86,9 @@ Installed-Size: 848
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/dev.quiprr.sorrylowbattery_1.0.0_iphoneos-arm.deb
 Size: 39512
-MD5sum: 5c396a9ba837678e6189f2f15fb4d558
-SHA1: 059bfbd5725126e7ddf2dd7a9f9b9c63962eeb9f
-SHA256: aa12f6f73e2906ba703b69b2db86d4471784ac3f00bdff10f64ecbcdbdddb04d
+MD5sum: caa8f22bfde24165ec4b2109ea1f562a
+SHA1: ca591ec52196ed10ee8f46a6c3a6bd8ead985a71
+SHA256: 2b8c1d40342f5b70ee892b4ff7139b8224554f14e68a2c5ee9669ed85f3a6cc1
 Section: Tweaks
 Description: Get another Low Battery notification!
 Author: quiprr
