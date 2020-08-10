@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://repo.ametrine.dev/assets/img/notiping-banner.png",
+        "title": "NotiPing",
+        "package": "dev.ametrine.notiping",
+        "hideShadow": false
+    }
+  ]
+}

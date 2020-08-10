@@ -8,3 +8,7 @@
   
   
 <a href="installer://https://repo.ametrine.dev/" class="myButton">Add to Installer</a></center>
+<br>
+<br>
+<br>
+###### Some assets are from [syns/repo.me](https://github.com/syns/repo.me).
