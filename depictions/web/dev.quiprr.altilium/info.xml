@@ -1,0 +1,26 @@
+<package>
+	<id>dev.quiprr/altilium</id>
+	<name>Altilium</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Get another low battery notification!</shortDescription>
+	<changelog>
+		<change>v1.0.0</change>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/ItHertzSoGood/Altilium</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>
