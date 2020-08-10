@@ -78,21 +78,21 @@ Description: Get notified when a server goes down!
 Author: ItHertzSoGood
 Name: NotiPing
 
-Package: dev.quiprr.sorrylowbattery
+Package: dev.quiprr.altilium
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: quiprr
-Installed-Size: 848
+Installed-Size: 856
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/dev.quiprr.sorrylowbattery_1.0.0_iphoneos-arm.deb
-Size: 39512
-MD5sum: caa8f22bfde24165ec4b2109ea1f562a
-SHA1: ca591ec52196ed10ee8f46a6c3a6bd8ead985a71
-SHA256: 2b8c1d40342f5b70ee892b4ff7139b8224554f14e68a2c5ee9669ed85f3a6cc1
+Filename: debs/dev.quiprr.altilium_1.0.0_iphoneos-arm.deb
+Size: 40870
+MD5sum: dd5f4196e6991c10360a954e5cbc3952
+SHA1: d06568809143126f097a6c9472615c539662de58
+SHA256: b782706e1973914b5ebefe18b87de1d6f89ababc9672c9d56a0b01645337ca63
 Section: Tweaks
 Description: Get another Low Battery notification!
 Author: quiprr
-Name: SorryLowBattery
+Name: Altilium
 
 Package: inetutils
 Version: 1.9.4-2
