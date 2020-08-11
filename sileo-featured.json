@@ -9,5 +9,11 @@
         "package": "dev.ametrine.notiping",
         "hideShadow": false
     }
+    {
+      "url": "https://repo.ametrine.dev/assets/img/altilium-banner.png",
+      "title": "Altilium",
+      "package": "dev.quiprr.altilium",
+      "hideShadow": false
+  }
   ]
 }

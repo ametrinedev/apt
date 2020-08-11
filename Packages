@@ -110,22 +110,3 @@ Description: Get another Low Battery notification!
 Author: quiprr
 Name: Altilium
 
-Package: inetutils
-Version: 1.9.4-2
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 4064
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses, readline
-Replaces: coreutils (<< 7.2-6)
-Provides: hostname, ping, telnet
-Filename: debs/inetutils_1.9.4-2_iphoneos-arm.deb
-Size: 268236
-MD5sum: 64ffe5ae3170a0564da132411fe7a3fa
-SHA1: bc2a4dc83442e3c8336b606ad235d7bb240fa2d5
-SHA256: 4fc0c494701bdb6fa4538788c77d63024960308cc657b72a9e8cc9c09bf9019d
-Section: Networking
-Priority: standard
-Homepage: http://www.gnu.org/software/inetutils/
-Description: ftp, inetd, ping, rlogin, telnet, tftp
-
