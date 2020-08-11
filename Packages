@@ -94,6 +94,22 @@ Description: Get another Low Battery notification!
 Author: quiprr
 Name: Altilium
 
+Package: dev.quiprr.altilium
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: quiprr
+Installed-Size: 856
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/dev.quiprr.altilium_1.0.1_iphoneos-arm.deb
+Size: 41646
+MD5sum: 488a7b81d18a6033f80ad25d48b6f889
+SHA1: 1f5b94c21193385e1d672391e5c20321926bf7fe
+SHA256: 9ca89459b25ad35218ed77f0e6d0992c21de38067c339e71cec4ef7dcd934c6d
+Section: Tweaks
+Description: Get another Low Battery notification!
+Author: quiprr
+Name: Altilium
+
 Package: inetutils
 Version: 1.9.4-2
 Architecture: iphoneos-arm
